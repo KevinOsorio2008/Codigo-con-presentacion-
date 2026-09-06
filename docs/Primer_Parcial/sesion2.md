@@ -13,6 +13,4 @@ De igual manera se presentara un video de como fue el circuito y su funcionalida
 
 En el siguiente video se muestra lo que fue la practica , el circuito consistia en realizar que el led se prendiera y apagara. En este caso un capacitador nos ayudó a que esto sucediera.
 
-Otra herramienta que nos ayudo a ver como las señales electricas se movian en forma de ondas fue el osciloscopio.
-
-Y esto fue todo en la segunda practica. 
+Otra herramienta que nos ayudo a ver como las señales electricas se movian en forma de ondas fue el osciloscopio. 
