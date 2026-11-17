@@ -1,10 +1,10 @@
 # Documentacion de la practica 2
 En esta practica lo que se realizo fue un circuito , a continuacion se muestra el ejemplo
-![diagrama del circuito](../recursos/imgs/Image%20(1).jpg)
+![diagrama del circuito](../stuff/recursos/imgs/Image%20(1).jpg)
 
 En esta imagen se aprecia lo que fue el dibujo de como quedaria el circuito. 
 A continuacion se puede apreciar como quedo nuestro circuito.
-![circuito](../recursos/imgs/Image%20(2).jpg)
+![circuito](../stuff/recursos/imgs/Image%20(2).jpg)
 En esta imagen se puede apreciar el circuito ya hecho el cual uso varios jumpers y bueno el led se puede apreciar ahi mismo.
 
 De igual manera se presentara un video de como fue el circuito y su funcionalidad

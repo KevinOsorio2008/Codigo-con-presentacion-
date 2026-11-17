@@ -11,7 +11,7 @@ Lo primero que se debe de hacer es poner los componentes que se van a usar y en 
 
 Posteriormente el circuito queda armado de la siguiente manera :
 
-![Circuito1](../recursos/imgs/Tremendous%20Blorr%20(1).png)
+![Circuito1](../stuff/recursos/imgs/Tremendous%20Blorr%20(1).png)
 
 El codigo que se ejecuto para que se pudiera mover el motor fue el siguiente :
 ```
@@ -38,7 +38,7 @@ void loop()
 ```
 
 Posteriormente se conecta un segundo motor y para eso el circuito quedaria de la siguiente manera :
-![Circuito2](../recursos/imgs/Tremendous%20Blorr%20(2).png)
+![Circuito2](../stuff/recursos/imgs/Tremendous%20Blorr%20(2).png)
 
 Y lo unico que cambia en el codigo es lo siguiente:
 ```
@@ -89,7 +89,7 @@ Solo se agrega en que pines estan conectados las terminales del motor.
 
 El circuito quedaria armado de la siguiente manera :
 
-![Circuito con servomotor](../recursos/imgs/Tremendous%20Blorr%20(3).png)
+![Circuito con servomotor](../stuff/recursos/imgs/Tremendous%20Blorr%20(3).png)
 
 En donde el codigo quedaria de la misma manera solo que se agrega la libreria `` # include <Servo.h>`` :
 
